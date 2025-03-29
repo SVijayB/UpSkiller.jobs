@@ -1,32 +1,32 @@
-# Repo-Template
+# UpSkiller.jobs
 
 <p align="center">
     <img src="assets/Logo.png" alt="Logo" border="0">
-    <br>Short description of the project
+    <br>Upskill yourself, land any job you want!
 </p>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/SVijayB/Repo-Template/pulls">
-        <img src="https://img.shields.io/github/issues-pr/SVijayB/Repo-Template.svg?style=for-the-badge&amp;logo=opencollective" alt="GitHub pull-requests">
+    <a href="https://github.com/SVijayB/UpSkiller.jobs/pulls">
+        <img src="https://img.shields.io/github/issues-pr/SVijayB/UpSkiller.jobs.svg?style=for-the-badge&amp;logo=opencollective" alt="GitHub pull-requests">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template/issues">
-    <img src="https://img.shields.io/github/issues/SVijayB/Repo-Template.svg?style=for-the-badge&amp;logo=testcafe" alt="GitHub issues">
+<a href="https://github.com/SVijayB/UpSkiller.jobs/issues">
+    <img src="https://img.shields.io/github/issues/SVijayB/UpSkiller.jobs.svg?style=for-the-badge&amp;logo=testcafe" alt="GitHub issues">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/SVijayB/Repo-Template.svg?style=for-the-badge&amp;logo=bandsintown" alt="GitHub contributors">
+<a href="https://github.com/SVijayB/UpSkiller.jobs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/SVijayB/UpSkiller.jobs.svg?style=for-the-badge&amp;logo=bandsintown" alt="GitHub contributors">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SVijayB/Repo-Template?style=for-the-badge&amp;logo=appveyor" alt="GitHub license">
+<a href="https://github.com/SVijayB/UpSkiller.jobs/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/SVijayB/UpSkiller.jobs?style=for-the-badge&amp;logo=appveyor" alt="GitHub license">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template">
-    <img src="https://img.shields.io/github/repo-size/SVijayB/Repo-Template?style=for-the-badge&amp;logo=git" alt="GitHub repo size">
+<a href="https://github.com/SVijayB/UpSkiller.jobs">
+    <img src="https://img.shields.io/github/repo-size/SVijayB/UpSkiller.jobs?style=for-the-badge&amp;logo=git" alt="GitHub repo size">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template/blob/master/.github/CODE_OF_CONDUCT.md">
+<a href="https://github.com/SVijayB/UpSkiller.jobs/blob/master/.github/CODE_OF_CONDUCT.md">
     <img src="https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=for-the-badge&amp;logo=crowdsource" alt="Code of Conduct">
     </a>
-<a href="https://github.com/SVijayB/Repo-Template/blob/master/.github/CONTRIBUTING.md">
+<a href="https://github.com/SVijayB/UpSkiller.jobs/blob/master/.github/CONTRIBUTING.md">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;logo=opensourceinitiative&amp;label=Open&amp;message=Source%20%E2%9D%A4%EF%B8%8F&amp;color=blueviolet" alt="Open Source Love svg1">
     </a>
 </p>
@@ -67,14 +67,14 @@ Run the file by using the following command, `py template-script.py`.
 
 <!--- Provide instructions on installing the application --->
 
-For the latest stable version, head to [Releases](https://github.com/SVijayB/Repo-Template/releases).
+For the latest stable version, head to [Releases](https://github.com/SVijayB/UpSkiller.jobs/releases).
 
 Download and extract the source code.
 
 As an alternative, you could also clone the repository using,
 
 <pre>
-git clone https://github.com/SVijayB/Repo-Template
+git clone https://github.com/SVijayB/UpSkiller.jobs
 </pre>
 
 Once you have the source code, create a virtual environment using the following command,
@@ -98,13 +98,13 @@ You can also find the demo video [here](https://www.youtube.com/watch?v=dQw4w9Wg
 
 ## Contributing
 
-To contribute to Repo-Template, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/Repo-Template/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests.
+To contribute to Repo-Template, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/UpSkiller.jobs/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests.
 
 Thanks for contributing to Open-source! ❤️
 
 ## License
 
-Repo-Template is under The MIT License. Read the [LICENSE](https://github.com/SVijayB/Repo-Template/blob/master/LICENSE) file for more information.
+Repo-Template is under The MIT License. Read the [LICENSE](https://github.com/SVijayB/UpSkiller.jobs/blob/master/LICENSE) file for more information.
 
 ---
 
